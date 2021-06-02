@@ -1,0 +1,1 @@
+export 'app/infra/data/repositories/authenticate_repository.dart';
